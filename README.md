@@ -8,10 +8,6 @@ I enjoy designing resilient architectures for real‑time and high‑throughput 
 
 I'm a longtime supporter of open‑source.  I contribute to and maintain public repositories, and advocate for transparency and collaborative innovation in all my projects.  My GitHub profile highlights a mixture of personal tools and forks—ranging from a Formula 1 race‑timing client in C# to small utilities like **buniform** reflecting my diverse interests.
 
-## Values and identity
-
-Freedom of thought, critical thinking, and the open‑source philosophy shape how I approach both tech and life.  I'm transgender (mtf) and use **they/them** pronouns.  I believe that authenticity and empathy are foundational to healthy teams and communities, and I strive to create environments where diverse perspectives are not only accepted but celebrated.
-
 ## Get in touch
 
 If you're interested in distributed systems, applied AI, or collaborative software design, feel free to reach out.  You can find me on **X** (formerly Twitter) at [@TheAnarchoX](https://twitter.com/TheAnarchoX).  I'm always open to discussing new ideas, mentoring, or exploring potential collaborations.
