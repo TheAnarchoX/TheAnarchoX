@@ -1,4 +1,4 @@
-# Hi, I'm Lily (they/them)
+# Hi, I'm Jim (they/them)
 
 I'm a senior cloud architect and tech lead working at the intersection of distributed systems, modern cloud platforms, and applied artificial intelligence. My professional focus spans .NET and the Azure ecosystem, DevOps and GitOps workflows, container orchestration with Kubernetes, and agentic AI applications. I have a strong track record of building scalable SaaS platforms, leading cross‑functional teams, and bridging the gap between infrastructure, backend, and product direction.  My contributions have earned recognition in the TNW T500 and Dutch Championships for software development.
 
