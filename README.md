@@ -1,15 +1,90 @@
-# Hi, I'm Jim (they/them)
+# Hi, I'm Jim de Vries
 
-I'm a senior cloud architect and tech lead working at the intersection of distributed systems, modern cloud platforms, and applied artificial intelligence. My professional focus spans .NET and the Azure ecosystem, DevOps and GitOps workflows, container orchestration with Kubernetes, and agentic AI applications. I have a strong track record of building scalable SaaS platforms, leading cross‑functional teams, and bridging the gap between infrastructure, backend, and product direction.  My contributions have earned recognition in the TNW T500 and Dutch Championships for software development.
+I'm a senior cloud architect, tech lead, and builder working at the intersection of distributed systems, modern cloud platforms, applied AI, and pragmatic product development.
 
-## Professional passions
+My core stack is **.NET**, **Azure**, **Kubernetes**, **DevOps/GitOps**, and increasingly **agentic AI**. I like building systems that are technically serious without becoming over-engineered: observable, maintainable, automated where it matters, and designed around real user needs instead of architectural vanity.
 
-I enjoy designing resilient architectures for real‑time and high‑throughput workloads. Over the past several years I've led initiatives around event‑driven architectures, microservice modernization, and AI‑powered automation.  I believe in balancing pragmatism with long‑term maintainability: choosing the right tool for the job, favouring infrastructure‑as‑code and GitOps, and investing in robust CI/CD and observability pipelines.  When possible I try to advance the state of the art. 
+I have worked on scalable SaaS platforms, event-driven systems, cloud-native infrastructure, AI-assisted workflows, and developer platforms. My work often sits between infrastructure, backend engineering, product direction, and technical leadership. I enjoy that space: translating messy real-world problems into systems that teams can actually build, operate, and evolve.
+
+My contributions have been recognized through the **TNW T500** and the **Dutch Championships for software development**.
+
+## Current projects
+
+### [Tuesday](https://tuesdayapp.nl)
+
+Tuesday is my main mission-driven project: a non-profit-oriented platform for daily mental support, designed for people in care, recovery, or waiting-list situations.
+
+The goal is to make eHealth feel less like a portal and more like a usable support layer: low-threshold, adaptive, practical, and grounded in the reality of Dutch mental healthcare. Tuesday combines check-ins, state-aware guidance, personal operating models, and AI-assisted support patterns to help people move through difficult days without pretending software can replace human care.
+
+Technically, Tuesday is where many of my interests converge:
+
+- applied AI for real-world support
+- state-aware user experiences
+- scalable SaaS architecture
+- privacy-conscious product design
+- accessible mental-health tooling
+- pragmatic automation for care workflows
+
+### [SectorForge](https://github.com/TheAnarchoX/sectorforge)
+
+SectorForge is a Windows-first, local-first telemetry and race analysis app for sim racing.
+
+It started from a simple frustration: most telemetry tools either feel too clunky, too expensive, too closed, or too disconnected from how sim racers actually want to improve. SectorForge is my attempt to build a better local telemetry stack for games like **F1 25**, **Le Mans Ultimate**, **Assetto Corsa Competizione**, and **Automobilista 2**.
+
+The current architecture combines a native .NET backend, local telemetry collection, SignalR streaming, SQLite session storage, replay flows, and a React/Vite dashboard. The project is also a useful playground for local-first application design, protocol adapters, real-time dashboards, and AI-assisted development workflows.
+
+## What I care about technically
+
+I care about systems that survive contact with reality.
+
+That usually means:
+
+- clear boundaries over accidental complexity
+- automation where it removes toil, not where it adds ceremony
+- GitOps and infrastructure-as-code for repeatable operations
+- strong observability before production pain forces it
+- pragmatic security as part of the design, not an afterthought
+- event-driven architecture when the domain actually benefits from it
+- AI as a force multiplier, not a magic layer sprinkled over bad design
+
+I am especially interested in platforms that combine **distributed systems**, **developer experience**, **human-centered product thinking**, and **AI-driven automation**.
+
+## Tools and ecosystems
+
+I mostly work with:
+
+- **Languages:** C#, TypeScript, Python
+- **Backend:** ASP.NET Core, Minimal APIs, SignalR, event-driven services
+- **Frontend:** React, Vue/Nuxt, Tailwind, shadcn/ui
+- **Cloud & infra:** Azure, Kubernetes, Docker, Terraform, GitHub Actions, ArgoCD
+- **Data & messaging:** PostgreSQL, SQL Server, SQLite, Redis, RabbitMQ, NATS
+- **AI:** LLM applications, agents, retrieval systems, workflow automation
+- **Operating environment:** Windows, WSL2, Linux, JetBrains Rider, VS Code, Neovim
+
+## How I work
+
+I value directness, autonomy, and technical honesty.
+
+I prefer small teams with high trust, clear ownership, and enough taste to avoid both chaos and needless process. I like working across boundaries: helping product people understand technical trade-offs, helping engineers see the product shape, and helping teams build systems they can actually maintain.
+
+I do not believe architecture is a diagramming exercise. Architecture is the set of decisions that make future work easier or harder.
+
+## Open source and software philosophy
+
+I care deeply about freedom, extensibility, and user sovereignty in software.
+
+That does not mean every project has to be permissively licensed or infinitely configurable. It means software should respect the people using it and the people maintaining it. Good systems should be understandable, adaptable, inspectable where possible, and honest about their constraints.
+
+A lot of my personal work explores that idea: tools that people can run locally, adapt to their own workflow, or use as a foundation for something larger.
+
+## Beyond work
+
+Outside of software, I spend a lot of time around music, games, philosophy, sim racing, and creative writing.
+
+I like systems in the broadest sense: racing telemetry, RPG builds, automation workflows, political structures, mental-health support models, and the strange machinery of being human.
 
 ## Get in touch
 
-If you're interested in distributed systems, applied AI, or collaborative software design, feel free to reach out.  You can find me on **X** (formerly Twitter) at [@TheAnarchoX](https://twitter.com/TheAnarchoX).  I'm always open to discussing new ideas, mentoring, or exploring potential collaborations.
+You can find me on **X** at [@TheAnarchoX](https://twitter.com/TheAnarchoX).
 
----
-
-*Note: this README is generated based on public information from my GitHub profile and personal notes.  It aims to provide an authentic overview of my work and interests.  For the most up‑to‑date projects and code, explore the repositories on my profile.*
+I am usually open to discussing distributed systems, applied AI, eHealth, developer tooling, sim-racing telemetry, technical leadership, or serious attempts to build software that matters.
