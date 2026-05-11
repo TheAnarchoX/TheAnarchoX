@@ -4,9 +4,7 @@ I'm a senior cloud architect and tech lead working at the intersection of distri
 
 ## Professional passions
 
-I enjoy designing resilient architectures for real‑time and high‑throughput workloads. Over the past several years I've led initiatives around event‑driven architectures, microservice modernization, and AI‑powered automation.  I believe in balancing pragmatism with long‑term maintainability: choosing the right tool for the job, favouring infrastructure‑as‑code and GitOps, and investing in robust CI/CD and observability pipelines.  When possible I try to advance the state of the art. My current work on projects like **HecatonAI** and **Embers** explores how large language models and agentic systems can drive end‑to‑end automation, from infrastructure provisioning to feature development.
-
-I'm a longtime supporter of open‑source.  I contribute to and maintain public repositories, and advocate for transparency and collaborative innovation in all my projects.  My GitHub profile highlights a mixture of personal tools and forks—ranging from a Formula 1 race‑timing client in C# to small utilities like **buniform** reflecting my diverse interests.
+I enjoy designing resilient architectures for real‑time and high‑throughput workloads. Over the past several years I've led initiatives around event‑driven architectures, microservice modernization, and AI‑powered automation.  I believe in balancing pragmatism with long‑term maintainability: choosing the right tool for the job, favouring infrastructure‑as‑code and GitOps, and investing in robust CI/CD and observability pipelines.  When possible I try to advance the state of the art. 
 
 ## Get in touch
 
