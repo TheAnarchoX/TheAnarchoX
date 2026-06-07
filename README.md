@@ -25,6 +25,26 @@ Technically, Tuesday is where many of my interests converge:
 - accessible mental-health tooling
 - pragmatic automation for care workflows
 
+### [Kafkaesk](https://github.com/TheAnarchoX/kafkaesk)
+
+Kafkaesk is an OSINT research workbench for structuring public information about right-wing extremism in the Netherlands.
+
+It started from my work around the Dutch antifascist research archive Kafka, but the goal is broader: turn scattered public sources into an evidence-first research environment where articles, feeds, entities, relationships, timelines, claims, and research tasks can be explored without losing sight of source traceability or human review.
+
+Kafkaesk is not meant to be a magic “AI finds extremists” machine. It is deliberately built around a stricter idea: every claim should be connected to source material, every inferred relationship should remain unverified until reviewed, and politically sensitive data should be handled with care. The platform is designed for public-interest research, not doxxing, harassment, or automated accusation.
+
+Technically, Kafkaesk is a full-stack research platform combining:
+
+* responsible sitemap and RSS/Atom ingestion
+* robots-aware crawling and source monitoring
+* PostgreSQL-backed document storage and search
+* entity and relationship extraction with review states
+* evidence trails, timelines, and research task workflows
+* multi-source querying across scraped and live public sources
+* future support for real-time incident workspaces and ML-assisted analysis
+
+For me, Kafkaesk sits at the intersection of activism, OSINT, data engineering, and software architecture: building tools that help researchers make sense of public information while keeping the system accountable, explainable, and careful by design.
+
 ### [SectorForge](https://github.com/TheAnarchoX/sectorforge)
 
 SectorForge is a Windows-first, local-first telemetry and race analysis app for sim racing.
