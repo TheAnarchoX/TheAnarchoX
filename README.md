@@ -25,6 +25,24 @@ Technically, Tuesday is where many of my interests converge:
 - accessible mental-health tooling
 - pragmatic automation for care workflows
 
+### [TimeKeeper](https://chromewebstore.google.com/detail/timekeeper/afmpffpnhbfcdadpghldeccnjknlmnke)
+
+TimeKeeper is a browser extension that makes timezone differences easier to understand while reading news articles, live blogs, event announcements, and other time-sensitive pages.
+
+It detects recognizable date and time mentions, infers the source timezone from nearby context, and adds an inline conversion to the user’s local or configured timezone. It also includes a manual converter for times copied from outside the browser.
+
+Technically, TimeKeeper is a lightweight, privacy-conscious Manifest V3 extension combining:
+
+- client-side date and time parsing
+- timezone inference from abbreviations, offsets, locations, metadata, and page context
+- inline conversions directly within article text
+- configurable target timezones, date formats, and display styles
+- page blacklists and fallback source timezones
+- a manual conversion popup
+- automated parser, DOM, content-script, and popup tests
+
+TimeKeeper is a small but practical example of building focused browser tooling around a deceptively difficult problem: making global time information understandable without interrupting the reading experience.
+
 ### [Kafkaesk](https://github.com/TheAnarchoX/kafkaesk)
 
 Kafkaesk is an OSINT research workbench for structuring public information about right-wing extremism in the Netherlands.
