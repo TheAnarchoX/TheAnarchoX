@@ -16,30 +16,11 @@ Tuesday is my main mission-driven project: a non-profit-oriented platform for da
 
 The goal is to make eHealth feel less like a portal and more like a usable support layer: low-threshold, adaptive, practical, and grounded in the reality of Dutch mental healthcare. Tuesday combines check-ins, state-aware guidance, personal operating models, and AI-assisted support patterns to help people move through difficult days without pretending software can replace human care.
 
-Technically, Tuesday is where many of my interests converge:
-
-- applied AI for real-world support
-- state-aware user experiences
-- scalable SaaS architecture
-- privacy-conscious product design
-- accessible mental-health tooling
-- pragmatic automation for care workflows
-
 ### [TimeKeeper](https://chromewebstore.google.com/detail/timekeeper/afmpffpnhbfcdadpghldeccnjknlmnke)
 
 TimeKeeper is a browser extension that makes timezone differences easier to understand while reading news articles, live blogs, event announcements, and other time-sensitive pages.
 
 It detects recognizable date and time mentions, infers the source timezone from nearby context, and adds an inline conversion to the user’s local or configured timezone. It also includes a manual converter for times copied from outside the browser.
-
-Technically, TimeKeeper is a lightweight, privacy-conscious Manifest V3 extension combining:
-
-- client-side date and time parsing
-- timezone inference from abbreviations, offsets, locations, metadata, and page context
-- inline conversions directly within article text
-- configurable target timezones, date formats, and display styles
-- page blacklists and fallback source timezones
-- a manual conversion popup
-- automated parser, DOM, content-script, and popup tests
 
 TimeKeeper is a small but practical example of building focused browser tooling around a deceptively difficult problem: making global time information understandable without interrupting the reading experience.
 
@@ -50,16 +31,6 @@ Kafkaesk is an OSINT research workbench for structuring public information about
 It started from my work around the Dutch antifascist research archive Kafka, but the goal is broader: turn scattered public sources into an evidence-first research environment where articles, feeds, entities, relationships, timelines, claims, and research tasks can be explored without losing sight of source traceability or human review.
 
 Kafkaesk is not meant to be a magic “AI finds extremists” machine. It is deliberately built around a stricter idea: every claim should be connected to source material, every inferred relationship should remain unverified until reviewed, and politically sensitive data should be handled with care. The platform is designed for public-interest research, not doxxing, harassment, or automated accusation.
-
-Technically, Kafkaesk is a full-stack research platform combining:
-
-* responsible sitemap and RSS/Atom ingestion
-* robots-aware crawling and source monitoring
-* PostgreSQL-backed document storage and search
-* entity and relationship extraction with review states
-* evidence trails, timelines, and research task workflows
-* multi-source querying across scraped and live public sources
-* future support for real-time incident workspaces and ML-assisted analysis
 
 For me, Kafkaesk sits at the intersection of activism, OSINT, data engineering, and software architecture: building tools that help researchers make sense of public information while keeping the system accountable, explainable, and careful by design.
 
