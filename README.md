@@ -16,6 +16,14 @@ Tuesday is my main mission-driven project: a non-profit-oriented platform for da
 
 The goal is to make eHealth feel less like a portal and more like a usable support layer: low-threshold, adaptive, practical, and grounded in the reality of Dutch mental healthcare. Tuesday combines check-ins, state-aware guidance, personal operating models, and AI-assisted support patterns to help people move through difficult days without pretending software can replace human care.
 
+### [Redline](https://github.com/TheAnarchoX/redline-support)
+
+Redline is a local-first browser extension for people who need more than bookmarks while researching the web.
+
+It lets users save sources with notes and metadata, annotate exact passages, organize material into tags and dossiers, connect related findings, search their research library, and export portable backups or citation-friendly formats. The aim is to keep evidence, context, and interpretation together instead of scattering them across bookmarks, documents, and note-taking apps.
+
+Redline is deliberately accountless and privacy-conscious: research data stays in browser-managed local storage, with no cloud sync, analytics, or hosted API. For me, it is an exploration of evidence-first research tooling, browser-native workflows, and how local-first software can remain focused and useful without turning personal research into another online service.
+
 ### [TimeKeeper](https://chromewebstore.google.com/detail/timekeeper/afmpffpnhbfcdadpghldeccnjknlmnke)
 
 TimeKeeper is a browser extension that makes timezone differences easier to understand while reading news articles, live blogs, event announcements, and other time-sensitive pages.
